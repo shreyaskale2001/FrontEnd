@@ -1,13 +1,13 @@
 # FrontEnd
  Design webpage with the help of HTML, CSS, JavaScript and boostrap
 
-#Requirement
+# Requirement
 ##### Softwares used
 ```
 - Sublime Text 3
 ```
 
-#####Programming languages used
+##### Programming languages used
 ```
 - HTML
 - CSS
